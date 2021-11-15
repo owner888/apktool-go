@@ -1,0 +1,2 @@
+#! /bin/sh
+"/opt/homebrew/Cellar/p7zip/17.04/lib/p7zip/7z" "$@"
