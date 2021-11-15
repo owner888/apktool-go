@@ -9,6 +9,7 @@ Note:
 - As of apktool.jar 2.6.0. Only support 64 bit
 
 Changelog:
-- Updated apktool.jar to 2.6.0
 - Language improvements
 - Updated adb, zipalign, aapt, apksigner from Android SDK 30.0.3
+- Updated apktool.jar to 2.6.0, Link: https://github.com/iBotPeaches/Apktool
+- Updated smali.jar, baksmali.jar to 2.5.2, Link: https://bitbucket.org/JesusFreke/smali/downloads/
